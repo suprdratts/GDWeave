@@ -1,7 +1,9 @@
 # GDWeave
 
 > [!WARNING]  
-> **GDWeave is no longer maintained.** Check out [GDPatch](https://github.com/GDPatch/GDPatch) instead.
+> **GDWeave is no longer maintained.** You can still use GDWeave to mod WEBFISHING, but there will be no future updates or bug fixes.
+> 
+> If you want to develop mods for other Godot Engine games, check out [GDPatch](https://github.com/GDPatch/GDPatch) instead!
 
 ![GitHub downloads](https://img.shields.io/github/downloads/NotNite/GDWeave/total?label=GitHub%20downloads) [![Thunderstore downloads](https://img.shields.io/thunderstore/dt/NotNet/GDWeave?label=Thunderstore%20downloads)](https://thunderstore.io/c/webfishing/p/NotNet/GDWeave/) [![Build](https://github.com/NotNite/GDWeave/actions/workflows/build.yml/badge.svg)](https://github.com/NotNite/GDWeave/actions/workflows/build.yml)
 
